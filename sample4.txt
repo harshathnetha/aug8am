@@ -1,2 +1,2 @@
-hi welcome to new file
+hi welcome to new file for git log changes
 
